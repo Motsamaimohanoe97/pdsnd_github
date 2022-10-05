@@ -21,7 +21,7 @@ The Pandas Dataframe and Time module (calculating time for analysis) were used t
 
 ### Credits
 .https://www.udacity.com/
-You will need to install Pycharm, Jupyter Notebook using Anaconda3
+You will need to instll Pycharm, Jupyter Notebook using Anaconda3
 
 .https://stackoverflow.com/
 
