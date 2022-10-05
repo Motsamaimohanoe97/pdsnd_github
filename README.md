@@ -16,8 +16,10 @@ Chicago.csv
 New-York-city.csv
 
 ### Credits
-.Udacity
+.https://www.udacity.com/
 
-.Stack Overflow
+.https://stackoverflow.com/
 
-.Google
+.https://www.google.com/
+
+.https://www.jetbrains.com
