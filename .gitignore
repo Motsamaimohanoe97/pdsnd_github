@@ -1,6 +1,5 @@
 .github/**
 .csv
-...
 
 import time
 import pandas as pd
