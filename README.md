@@ -1,17 +1,23 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
-
+This project was created on october 05 2022
 ### Project Title
-Replace the Project Title
+Bikeshare system data analysis
 
 ### Description
-Describe what your project is about and what it does
-
+Provides an interactive environment for users to choose the data
+and filter to compute descriptive statistics e.g. 
+popular times of travel, user info and analysis for
+a given city's Bikeshare System. The project 
+uncovers the usage pattern and compare system usage
+between three large cities i.e. Chicago, New York city and Washington.
 ### Files used
-Include the files used
+Chicago.csv
+New-York-city.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+.Udacity
 
+.Stack Overflow
+
+.Google
