@@ -1,26 +1,41 @@
+# Project 1: Bikeshare data analysis
 
-### Date created
-This project was created on october 05 2022
-### Project Title
-Bikeshare system data analysis
+Udacity Python nanodegree project of Bikeshare data analysis of three cities was carried out by using Python language.
 
-### Description
-Provides an interactive environment for users to choose the data
-and filter to compute descriptive statistics e.g. 
-popular times of travel, user info and analysis for
-a given city's Bikeshare System. The project 
-uncovers the usage pattern and compare system usage
-between three large cities i.e. Chicago, New York city and Washington.
-### Files used
-Chicago.csv
-New-York-city.csv
-Washington.csv
+The Pandas Dataframe and Time module (calculating time for analysis) were used to implement analysis of the bikeshare data.
 
-### Credits
-.https://www.udacity.com/
+You will need to install Pycharm, Jupyter Notebook using Anaconda3
 
-.https://stackoverflow.com/
 
-.https://www.google.com/
 
-.https://www.jetbrains.com
+### The questions answered through analysis of the data:
+
+-Which city to analyse out of three? (Chicago,New York city,Washington)
+
+-Which month to analyse? (January to June, None)
+
+-Which day of week to be analysed? (Monday to Sunday, None)
+
+#### Statistics displayed:
+
+-The most pouplar month
+
+-The most popular day of week
+
+-The most popular start hour
+
+-The most popular Start and End Station.
+
+-The most frequent Start to End Station combination.
+
+-The total travel time and average travel time
+
+-The counts of user types and gender.
+
+-The earliest, most recent and most common birth year.
+
+-The first five individual trip data, if needed and more data if required.
+
+
+#### I completed this project with the knowledge I gained from python classes of Udacity, from stackoverflow site and Python Documentation,. Counting grouped occurences in dataframe: [Stack Overflow Link](https://datascience.stackexchange.com/questions/29840/how-to-count-grouped-occurrences)
+ 
