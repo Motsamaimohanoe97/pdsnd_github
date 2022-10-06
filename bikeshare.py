@@ -1,6 +1,3 @@
-# +Chicago.csv
-# +New-York-City.csv
-# +Washington.csv
 
 import time
 import pandas as pd
