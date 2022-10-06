@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb8e24c8-709b-4bec-ac45-f30fa5912649" name="Changes" comment="adds credit links and &quot;gitignore.csv files&quot;" />
+    <list default="true" id="fb8e24c8-709b-4bec-ac45-f30fa5912649" name="Changes" comment="configuring git_ignore files and bikeshare.py file" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -158,7 +158,35 @@
       <option name="project" value="LOCAL" />
       <updated>1665096817939</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="adds credit links and &quot;gitignore.csv files&quot;">
+      <created>1665096898606</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665096898608</updated>
+    </task>
+    <task id="LOCAL-00018" summary="adds bikeshare.py and removing spaces betwween codes lines">
+      <created>1665096979968</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1665096979968</updated>
+    </task>
+    <task id="LOCAL-00019" summary="configuring git_ignore files and bikeshare.py file">
+      <created>1665097073978</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665097073978</updated>
+    </task>
+    <task id="LOCAL-00020" summary="configuring git_ignore files and bikeshare.py file">
+      <created>1665097146611</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665097146611</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +218,8 @@
     <MESSAGE value="Adds credit links to the project and ReadMe.md edit" />
     <MESSAGE value="configuring git_ignore.csv files and &quot;Bikeshare.py&quot; files" />
     <MESSAGE value="adds credit links and &quot;gitignore.csv files&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="adds credit links and &quot;gitignore.csv files&quot;" />
+    <MESSAGE value="adds bikeshare.py and removing spaces betwween codes lines" />
+    <MESSAGE value="configuring git_ignore files and bikeshare.py file" />
+    <option name="LAST_COMMIT_MESSAGE" value="configuring git_ignore files and bikeshare.py file" />
   </component>
 </project>
