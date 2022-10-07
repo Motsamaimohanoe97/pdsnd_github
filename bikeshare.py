@@ -1,3 +1,6 @@
+# + Chicago.csv
+# + New-York-City.csv
+# + Washington.csv
 
 import time
 import pandas as pd
@@ -23,7 +26,7 @@ def get_filters():
     # get user input for month (all, january, february, ... , june)
 
 
-    # get user input for day of week (all, monday, tuesday, ... sunday)
+   # get user input for day of week (all, monday, tuesday, ... sunday)
 
 
     print('-'*40)
