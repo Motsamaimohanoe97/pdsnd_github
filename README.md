@@ -26,3 +26,5 @@ You will need to instll Pycharm, Jupyter Notebook using Anaconda3
 .https://stackoverflow.com/
 
 .https://www.google.com/
+
+.https://udacity.github.io/git-styleguide/
