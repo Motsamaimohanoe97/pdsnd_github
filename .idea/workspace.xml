@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb8e24c8-709b-4bec-ac45-f30fa5912649" name="Changes" comment="delete.idea workspace.xml" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="documentation" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2FgzbdZNiZgd1zyykpjXM7XywKV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb8e24c8-709b-4bec-ac45-f30fa5912649" name="Changes" comment="" />
+      <created>1664928592882</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1664928592882</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Updated the ReadMe.md files">
+      <created>1664969356572</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1664969356572</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adds the &quot;.gitignore&quot; and &quot;bikeshare.py&quot; files">
+      <created>1664970386341</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664970386341</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adds credit links to the project and ReadMe.md edit">
+      <created>1664970878867</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664970878867</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adds credit links to the project and ReadMe.md edit">
+      <created>1664971532384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1664971532384</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Adds credit links to the project and ReadMe.md edit">
+      <created>1664973437961</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1664973437961</updated>
+    </task>
+    <task id="LOCAL-00006" summary="configuring git_ignore.csv files and &quot;Bikeshare.py&quot; files">
+      <created>1664973846396</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1664973846396</updated>
+    </task>
+    <task id="LOCAL-00007" summary="configuring git_ignore.csv files and &quot;Bikeshare.py&quot; files">
+      <created>1664973978125</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1664973978125</updated>
+    </task>
+    <task id="LOCAL-00008" summary="configuring git_ignore.csv files and &quot;Bikeshare.py&quot; files">
+      <created>1664974145120</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1664974145120</updated>
+    </task>
+    <task id="LOCAL-00009" summary="configuring git_ignore.csv files and &quot;Bikeshare.py&quot; files">
+      <created>1664974229820</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1664974229820</updated>
+    </task>
+    <task id="LOCAL-00010" summary="configuring git_ignore.csv files and &quot;Bikeshare.py&quot; files">
+      <created>1664974346548</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1664974346548</updated>
+    </task>
+    <task id="LOCAL-00011" summary="configuring git_ignore.csv files and &quot;Bikeshare.py&quot; files">
+      <created>1664974713586</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664974713586</updated>
+    </task>
+    <task id="LOCAL-00012" summary="adds credit links and &quot;gitignore.csv files&quot;">
+      <created>1664974859936</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664974859936</updated>
+    </task>
+    <task id="LOCAL-00013" summary="adds credit links and &quot;gitignore.csv files&quot;">
+      <created>1665091086810</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665091086810</updated>
+    </task>
+    <task id="LOCAL-00014" summary="adds credit links and &quot;gitignore.csv files&quot;">
+      <created>1665095327322</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665095327322</updated>
+    </task>
+    <task id="LOCAL-00015" summary="adds credit links and &quot;gitignore.csv files&quot;">
+      <created>1665095546580</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665095546580</updated>
+    </task>
+    <task id="LOCAL-00016" summary="adds credit links and &quot;gitignore.csv files&quot;">
+      <created>1665096817939</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1665096817939</updated>
+    </task>
+    <task id="LOCAL-00017" summary="adds credit links and &quot;gitignore.csv files&quot;">
+      <created>1665096898606</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1665096898608</updated>
+    </task>
+    <task id="LOCAL-00018" summary="adds bikeshare.py and removing spaces betwween codes lines">
+      <created>1665096979968</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1665096979968</updated>
+    </task>
+    <task id="LOCAL-00019" summary="configuring git_ignore files and bikeshare.py file">
+      <created>1665097073978</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665097073978</updated>
+    </task>
+    <task id="LOCAL-00020" summary="configuring git_ignore files and bikeshare.py file">
+      <created>1665097146611</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665097146611</updated>
+    </task>
+    <task id="LOCAL-00021" summary="configuring git_ignore files and bikeshare.py file">
+      <created>1665097216792</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1665097216792</updated>
+    </task>
+    <task id="LOCAL-00022" summary="configuring git_ignore files">
+      <created>1665097518719</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665097518719</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Update README.md">
+      <created>1665165147893</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1665165147909</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add bikeshare.py files">
+      <created>1665165627685</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1665165627701</updated>
+    </task>
+    <task id="LOCAL-00025" summary="delete.idea workspace.xml">
+      <created>1665166393774</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1665166393774</updated>
+    </task>
+    <task id="LOCAL-00026" summary="delete.idea workspace.xml">
+      <created>1665166493533</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1665166493533</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="documentation" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated the ReadMe.md files" />
+    <MESSAGE value="Adds the &quot;.gitignore&quot; and &quot;bikeshare.py&quot; files" />
+    <MESSAGE value="Adds credit links to the project and ReadMe.md edit" />
+    <MESSAGE value="configuring git_ignore.csv files and &quot;Bikeshare.py&quot; files" />
+    <MESSAGE value="adds credit links and &quot;gitignore.csv files&quot;" />
+    <MESSAGE value="adds bikeshare.py and removing spaces betwween codes lines" />
+    <MESSAGE value="configuring git_ignore files and bikeshare.py file" />
+    <MESSAGE value="configuring git_ignore files" />
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Add bikeshare.py files" />
+    <MESSAGE value="delete.idea workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="delete.idea workspace.xml" />
+  </component>
+</project>
